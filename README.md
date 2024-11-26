@@ -163,7 +163,9 @@ Menjalankan fungsi main jika file dijalankan langsung
 ![foto](https://raw.githubusercontent.com/rich-pro12/foto1/330072d109974874ff0c6e870091b516ff550232/FLOWCHART%20PRATIKUM-5.png)
 
 # Hasil Eksekusi
-![Foto]()
+![Foto](https://raw.githubusercontent.com/rich-pro12/foto1/79640f71767f6ad6800350db221f4b5338719bb8/Screenshot%202024-11-26%20224247.png)
+
+
 
 
 
