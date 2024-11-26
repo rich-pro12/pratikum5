@@ -160,7 +160,10 @@ if __name__ == "__main__":
 Menjalankan fungsi main jika file dijalankan langsung
 
 # Flowchart
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/330072d109974874ff0c6e870091b516ff550232/FLOWCHART%20PRATIKUM-5.png)
+
+# Hasil Eksekusi
+![Foto]()
 
 
 
